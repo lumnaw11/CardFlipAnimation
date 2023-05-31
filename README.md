@@ -1,4 +1,4 @@
-# CardFlipAnimation
+# Card-Flip-Animation
 Card flip animation Android Studios (Java).
 Followed this tutorial but I did it in Java
 https://www.geeksforgeeks.org/flip-card-animation-in-android/
